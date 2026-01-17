@@ -14,7 +14,7 @@ author: kangin huh
 navbar-links:
   Career: "career"
   Publication: "publication"
-  Blog: "blog"
+ # Blog: "blog"
   Project: "project"
   INSTAGRAM: "instagram"
   
